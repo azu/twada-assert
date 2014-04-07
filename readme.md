@@ -32,6 +32,13 @@ describe('Array', function () {
 });
 ```
 
+## t-wada assert?
+
+You can obtaine `twada` feature through the use of these tools for now!
+
+* [twada/power-assert](https://github.com/twada/power-assert "twada/power-assert")
+* [twada/espower-loader](https://github.com/twada/espower-loader "twada/espower-loader")
+
 ## Contributing
 
 1. Fork it!
